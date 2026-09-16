@@ -9,3 +9,8 @@ for i in range(1, 7):
         print(i, end="")
 # Ganti baris di akhir
 print()
+
+
+
+for i inn range ( 1, 10):
+    print (*, * i)
